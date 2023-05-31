@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c60UwcvO7Q5Ai72WJkCgzghm9naw2mdC2n+YuFoCru8=",
+  "Source": "acme api rest",
+  "BasePath": "_content/acme api rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
